@@ -1,0 +1,8 @@
+{
+    "Description": "My server VMDK",
+    "Format": "RAW",
+    "UserBucket": {
+        "S3Bucket": "wxmigrate",
+        "S3Key": "vdb.raw"
+    }
+}
